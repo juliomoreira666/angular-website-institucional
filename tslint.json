@@ -119,14 +119,12 @@
     ],
     "directive-selector": [
       true,
-      "attribute",
-      "app",
+      "attribute", "app",
       "camelCase"
     ],
     "component-selector": [
       true,
-      "element",
-      "app",
+      "element", "app",
       "kebab-case"
     ],
     "no-output-on-prefix": true,
